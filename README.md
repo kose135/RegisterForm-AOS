@@ -6,14 +6,12 @@ This app is a Register Form example
 
 ### RegisterScreen
 
-<kbd> <img src="/doc/RegisterScreen.png" align="center" width="35%"/> </kbd>
-
+<img src="/doc/RegisterScreen.png" align="center" width="35%"  style="border: 1px solid grey"/>
 
 ### Failure In RegisterScreen
 
-<kbd> <img src="/doc/RegisterScreen_failure.png" align="center" width="35%"/> </kbd>
-
+<img src="/doc/RegisterScreen_failure.png" align="center" width="35%"  style="border: 1px solid grey"/>
 
 ### MainScreen After Success
 
-<kbd> <img src="/doc/MainScreen.png" align="center" width="35%"/> </kbd>
+<img src="/doc/MainScreen.png" align="center" width="35%"  style="border: 1px solid grey"/>
