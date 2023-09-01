@@ -9,11 +9,11 @@ This app is a Register Form example
 <img src="/doc/RegisterScreen.png" align="center" width="35%"/>
 
 
-### FailureScreen In RegisterScreen
+### Failure In RegisterScreen
 
 <img src="/doc/RegisterScreen_failure.png" align="center" width="35%"/>
 
 
-### MainScreen after success
+### MainScreen After Success
 
 <img src="/doc/MainScreen.png" align="center" width="35%"/>
